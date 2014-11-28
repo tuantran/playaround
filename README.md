@@ -1,4 +1,4 @@
 playaround
 ==========
 
-Play around git repo! Test
+Play around git repo! Testing
